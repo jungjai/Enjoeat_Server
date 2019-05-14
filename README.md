@@ -26,3 +26,5 @@ Menu using tablet
 ## 개발자
 
 - **이정재** - [jungjai](https://github.com/jungjai)
+- **심지용** - [simjiyong](https://github.com/simjiyong)
+- **김지만** - [kimjiman94](https://github.com/kimjiman94)
