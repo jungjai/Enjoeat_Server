@@ -1,9 +1,6 @@
 # Enjoeat_Server
 Menu using tablet
 
-## QR코드 스터디
-- [QR_CODE](https://github.com/jungjai/QR_CODE)
-
 ## 배포
 
 - AWS EC2 - 애플리케이션 서버
@@ -28,3 +25,11 @@ Menu using tablet
 - **이정재** - [jungjai](https://github.com/jungjai)
 - **심지용** - [simjiyong](https://github.com/simjiyong)
 - **김지만** - [kimjiman94](https://github.com/kimjiman94)
+
+## Enjoeat 의 다른 프로젝트
+
+- [ANDROID](https://github.com/Simjiyong/Enjoeat_Android)
+
+## QR코드 스터디
+
+- [QR_CODE](https://github.com/jungjai/QR_CODE)
